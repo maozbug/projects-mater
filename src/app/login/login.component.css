@@ -1,0 +1,29 @@
+/*.ng-valid[required], .ng-valid.required  {border-left: 5px solid #42A948;}
+.ng-invalid:not(form)  {border-left: 5px solid #a94442;}*/
+#login{
+	background: #282828;
+	width: 100%;
+	position: fixed;
+	top: 0;
+	bottom: 0;
+	right: 0;
+	left: 0;
+}
+.login{
+	margin-top: 10%;
+	background: #333333;
+	color: white;
+}
+.panel-heading{
+	text-align: center;
+}
+.form-horizontal .form-group{
+	margin-bottom: 5px;
+}
+.form-horizontal .msg{
+	padding: 8px;
+	color: coral;
+}
+.form-horizontal .checkbox{
+	padding-top: 0;
+}
