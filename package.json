@@ -22,7 +22,6 @@
     "@angular/platform-browser-dynamic": "^4.2.4",
     "@angular/router": "^4.2.4",
     "@swimlane/ngx-charts": "^6.1.0",
-    "angular-baidu-maps": "^1.0.0",
     "angular2-baidu-map": "^3.0.2",
     "bootstrap": "^3.3.7",
     "chart.js": "^2.7.0",

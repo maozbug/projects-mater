@@ -3,7 +3,7 @@ import { CommonModule } from '@angular/common';
 import { FormsModule } from '@angular/forms';
 import {DataTableModule,SharedModule} from 'primeng/primeng';
 import {BaiduMapModule} from "angular2-baidu-map";
-//import { ChartsModule } from 'ng2-charts/ng2-charts';
+import { ChartsModule } from 'ng2-charts/ng2-charts';
 
 import { ContentComponent } from './content.component';
 import {RouterModule} from '@angular/router';
@@ -26,7 +26,7 @@ import { EdituseComponent } from './edituse/edituse.component';
     DataTableModule,
     SharedModule,
     BaiduMapModule,
-//  ChartsModule
+    ChartsModule
   ],
   declarations: [ContentComponent, ZhuzjgComponent, YonghglComponent, JuesglComponent, QuanxglComponent, WenzglComponent, PinglglComponent, XitztComponent, BaidumapComponent, EdituseComponent]
 })
